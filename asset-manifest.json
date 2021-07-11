@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GitRepoFinder/static/css/main.f57d4f57.chunk.css",
+    "main.js": "/GitRepoFinder/static/js/main.820d9cc0.chunk.js",
+    "main.js.map": "/GitRepoFinder/static/js/main.820d9cc0.chunk.js.map",
+    "runtime-main.js": "/GitRepoFinder/static/js/runtime-main.b260235b.js",
+    "runtime-main.js.map": "/GitRepoFinder/static/js/runtime-main.b260235b.js.map",
+    "static/js/2.fc2793b8.chunk.js": "/GitRepoFinder/static/js/2.fc2793b8.chunk.js",
+    "static/js/2.fc2793b8.chunk.js.map": "/GitRepoFinder/static/js/2.fc2793b8.chunk.js.map",
+    "index.html": "/GitRepoFinder/index.html",
+    "static/css/main.f57d4f57.chunk.css.map": "/GitRepoFinder/static/css/main.f57d4f57.chunk.css.map",
+    "static/js/2.fc2793b8.chunk.js.LICENSE.txt": "/GitRepoFinder/static/js/2.fc2793b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b260235b.js",
+    "static/js/2.fc2793b8.chunk.js",
+    "static/css/main.f57d4f57.chunk.css",
+    "static/js/main.820d9cc0.chunk.js"
+  ]
+}
