@@ -41,11 +41,13 @@ export default function InfiniteScroll(userInput, pageNumber) {
       } else {
         setLoading(false);
         setError(true);
+        setKeepSearching(false);
       }
     } catch (error) {
       setLoading(false);
       setError(true);
       setRepos([]);
+      setKeepSearching(false);
     }
   };
 
