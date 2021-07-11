@@ -2,7 +2,6 @@ import React from 'react';
 import '../App.css';
 
 const GitCard = ({repo}) => {
-  const followers = repo.owner.followers_url;
   return (
     <div className="gitCardContainer">
       <div className="profile">
