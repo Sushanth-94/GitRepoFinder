@@ -1,5 +1,8 @@
 # Bootstrapped with Create React App
 
+## Github page
+Open [https://sushanth-94.github.io/GitRepoFinder](https://sushanth-94.github.io/GitRepoFinder) to view the deployed version, else follow as per below
+
 ## Available Scripts
 
 In the project directory, initially run:
